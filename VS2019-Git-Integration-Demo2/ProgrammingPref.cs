@@ -15,7 +15,7 @@ namespace VS2019_Git_Integration_Demo2
 
         public string MyPreference()
         {
-            return "Visual Basic";
+            return "Python";
         }
     }
 }
